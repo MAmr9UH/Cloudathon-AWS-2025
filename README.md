@@ -1,4 +1,5 @@
 # Cloudathon-AWS-2025
 
-![CougarLab Team Architecture](CougarLab%20Team%20Architecture.png)
+<img src="CougarLab%20Team%20Architecture.png" alt="CougarLab Team Architecture" width="800"/>
+
 
