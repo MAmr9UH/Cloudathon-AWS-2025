@@ -3,7 +3,7 @@
 <img src="CougarLab%20Team%20Architecture.png" alt="CougarLab Team Architecture"/>
 
 
-![Website Screenshot](Website.png)
+<img src="Website.png" alt="Website Screenshot" width="500"/>
 
 
 
