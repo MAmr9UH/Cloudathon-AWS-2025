@@ -1,3 +1,4 @@
 # Cloudathon-AWS-2025
 
-![CougarLab Architecture](./images/CougarLab%20Architecture.png)
+![CougarLab Team Architecture](CougarLab%20Team%20Architecture.png)
+
