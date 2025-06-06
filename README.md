@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="Website.png" alt="Website Screenshot" width="500"/>
+  <img src="Demo.png" alt="Website Screenshot" width="500"/>
 </div>
 
 
