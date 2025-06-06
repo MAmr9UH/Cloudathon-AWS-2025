@@ -3,4 +3,6 @@
 <img src="CougarLab%20Team%20Architecture.png" alt="CougarLab Team Architecture" width="1100" height="600"/>
 
 
+![Website Screenshot](Website.png)
+
 
